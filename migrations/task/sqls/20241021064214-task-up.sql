@@ -157,9 +157,6 @@ INSERT INTO "COURSE" (user_id,skill_id,name,start_at,end_at,max_participants,mee
 10,
 'https://test-meeting.test.io');
 
-
-
-
 -- ████████  █████   █    █████ 
 --   █ █   ██    █  █     █     
 --   █ █████ ███ ███      ████  
